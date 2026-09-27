@@ -10,3 +10,7 @@
 .group-message{background:#202b36;color:#fff;padding:62px 0}.group-message b{font-size:10px;letter-spacing:.22em;color:#d99aa2}.group-message h2{font-family:Georgia,"Yu Mincho",serif;font-weight:500;font-size:clamp(27px,4vw,42px);line-height:1.55;margin:10px 0}
 .card{transition:.2s}.card:hover{transform:translateY(-3px);box-shadow:0 14px 35px rgba(0,0,0,.09)}
 @media(max-width:800px){.corpbar{display:none}.hero.mega{min-height:540px}.hero.mega:before{font-size:180px;bottom:-45px}}
+
+.page-accent{width:64px;height:3px;background:var(--red);margin-top:22px}
+.page-hero{background:linear-gradient(110deg,#f5f5f5,#fff 65%,#eef0f1);position:relative;overflow:hidden}
+.page-hero:after{content:"PFG";position:absolute;right:2%;bottom:-45px;font:900 130px/1 Georgia,serif;color:rgba(176,24,43,.04)}
