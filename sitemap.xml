@@ -1,16 +1,11 @@
-<loc>https://oniuma931.github.io/group.html</loc>
-  </url>
-
-  <url>
-    <loc>https://oniuma931.github.io/keiba.html</loc>
-  </url>
-
-  <url>
-    <loc>https://oniuma931.github.io/news.html</loc>
-  </url>
-
-  <url>
-    <loc>https://oniuma931.github.io/research.html</loc>
-  </url>
-
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url><loc>https://oniuma931.github.io/</loc></url>
+<url><loc>https://oniuma931.github.io/about.html</loc></url>
+<url><loc>https://oniuma931.github.io/founder.html</loc></url>
+<url><loc>https://oniuma931.github.io/fund.html</loc></url>
+<url><loc>https://oniuma931.github.io/group.html</loc></url>
+<url><loc>https://oniuma931.github.io/keiba.html</loc></url>
+<url><loc>https://oniuma931.github.io/news.html</loc></url>
+<url><loc>https://oniuma931.github.io/research.html</loc></url>
 </urlset>
